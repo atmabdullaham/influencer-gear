@@ -453,7 +453,7 @@
                                                                                         /* ---------------------------------- */
                                                                                         /* tablet Devices */
                                                                                         
-                                                                                        @media only screen and ( min-width:688px)and (max-width:1200px) {
+                                                                                        @media only screen and ( min-width:688px)and (max-width:1300px) {
                                                                                             .container {
                                                                                                 width: 100%;
                                                                                             }

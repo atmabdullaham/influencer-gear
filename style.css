@@ -136,12 +136,10 @@
                                                                                             display: flex;
                                                                                             align-items: center;
                                                                                             justify-content: center;
-                                                                                            border: 2px solid hotpink;
                                                                                         }
                                                                                         
                                                                                         .section-title {
                                                                                             color: #3A3A3A;
-                                                                                            border: 2px solid mediumspringgreen;
                                                                                             font-size: 24px;
                                                                                             margin-top: 3px;
                                                                                             margin-top: 70px;
@@ -156,7 +154,6 @@
                                                                                             display: grid;
                                                                                             grid-template-columns: repeat(7, 1fr);
                                                                                             row-gap: 30px;
-                                                                                            border: 3px solid gold;
                                                                                             margin: 0 30px 0 20px;
                                                                                         }
                                                                                         
@@ -167,12 +164,10 @@
                                                                                         }
                                                                                         
                                                                                         .hr-logos {
-                                                                                            border: 3px dotted hotpink;
                                                                                             margin-top: 50px;
                                                                                         }
                                                                                         
                                                                                         hr {
-                                                                                            border: 1px solid #D1D1D1;
                                                                                             margin-top: 30px;
                                                                                             margin-bottom: 30px;
                                                                                             /* Gradient transparent - color - transparent */
@@ -278,9 +273,7 @@
                                                                                             color: #FF4A60;
                                                                                         }
                                                                                         
-                                                                                        .see-more {
-                                                                                            border: 3px solid hotpink;
-                                                                                        }
+                                                                                        .see-more {}
                                                                                         
                                                                                         .see-more a {
                                                                                             text-align: end;
@@ -303,7 +296,6 @@
                                                                                             flex-direction: row;
                                                                                             justify-content: space-around;
                                                                                             align-items: center;
-                                                                                            border: 2px solid mediumorchid;
                                                                                             padding-top: 150px;
                                                                                             padding-bottom: 50px;
                                                                                         }
@@ -314,7 +306,6 @@
                                                                                             padding: 20px;
                                                                                             display: flex;
                                                                                             flex-direction: column;
-                                                                                            font-weight: ;
                                                                                         }
                                                                                         
                                                                                         .join {
@@ -427,7 +418,7 @@
                                                                                             .main-logos,
                                                                                             .logos,
                                                                                             .logo {
-                                                                                                grid-template-columns: repeat(2, 1fr);
+                                                                                                grid-template-columns: repeat(3, 1fr);
                                                                                             }
                                                                                             .amazon {
                                                                                                 padding-left: 90px;
@@ -511,9 +502,9 @@
                                                                                             .main-c-div,
                                                                                             .collections,
                                                                                             .collection {
-                                                                                                display: flex;
-                                                                                                flex-direction: column;
-                                                                                                justify-content: center;
+                                                                                                /* display: flex; */
+                                                                                                /* flex-direction: column; */
+                                                                                                /* justify-content: center; */
                                                                                                 grid-template-columns: repeat(2, 1fr);
                                                                                             }
                                                                                             .last {
